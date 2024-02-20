@@ -1,6 +1,6 @@
 # USACO-B 23-24 Feb 16-19 (1000/1000) in 2:25
 My solutions for USACO Bronze for the Feb 16-19 competition as I submitted them to the servers (along with test case results in comments)!  
-I'm mainly using this as an opportunity to introduce myself to the markdown language and documenting my own events!
+I'm mainly using this as an opportunity to introduce myself to the markdown language and the practice of documenting my own events!
 
 ## IMPORTANT INFO
 I suck at coding so these will probably not be the best solutions :( and/or not be \**fully*\* optimized  
