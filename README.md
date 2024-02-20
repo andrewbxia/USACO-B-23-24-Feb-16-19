@@ -8,7 +8,7 @@ These will be my first few steps for my USACO journey as I (hopefully) progress 
 The IDE I used [(ide.usaco.guide)](https://ide.usaco.guide)
 
 ## Problem Descriptions
-If you want me to add comments to the code to textualize the solution open up an issue yelling at me to do so!
+If you want me to add comments to the code to textualize my solution open an issue yelling at me to do so!
 - Problem 1: [Palindrome Game](./solutions/palindromegame.cpp)
 - Problem 2: [Milk Exchange](./solutions/milk-exchange.cpp)
 - Problem 3: [Maximizing Productivity](./solutions/maximizingproductivity.cpp)  
