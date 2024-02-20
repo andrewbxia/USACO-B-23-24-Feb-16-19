@@ -1,5 +1,8 @@
 pov using discord messages as problem finishing timestamps :skull:
 
+!!!!!IMPORTANT DISCLAIMER!!!!!!
+I wrote this at 2 am last night so if something sounds wrong it probably is but im too lazy now to fix it :p
+
 
 1. Palindrome Game
 TEST CASES:
