@@ -8,7 +8,7 @@ TEST CASES:
 (all caps warning for....reasons)
 I HATED THIS PROBLEM I SPENT LIKE AN HOUR TRYING OUT DIFFERENT ARBITRARY SOLUTIONS LIKE CHECKING FOR DIVISIBILITY BY 11, FINDING THE SMALLEST PALINDROME GREATER AND SMALLER THAN THE NUMBER OF STONES GIVEN AUGHGHHHH
 So, I skipped this problem, completely drained of motivation, but pushed on.
-Keep in mind, I timed myself to give myself one hour on the first two problems, and then two hours on the harder third problem, so you can probably see how bad I felt with only three hours left on the timer and completely red incorrect test cases.
+I timed myself to give myself one hour on the first two problems, and then two hours on the harder third problem, so you can probably see how bad I felt with only three hours left on the timer and completely red incorrect test cases.
 
 
 2. Milk Exchange

@@ -15,7 +15,7 @@ If you want me to add comments to the code to textualize the solution open up an
 </br >
 
 Additional Stuff:
-- Extra: [My Thought Processes](./solutions/thoughtprocesses.txt)
+- Extra: [My Thought Processes](./thoughtprocesses.txt)
 
 <!-- how the heck do i add line breaks help me -->
 
